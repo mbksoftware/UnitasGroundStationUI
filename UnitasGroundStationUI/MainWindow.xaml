@@ -65,7 +65,7 @@
 
                             </Grid.RowDefinitions>
                             <Label Foreground="White" Margin="5" FontSize="13" Content="Point localtion"/>
-                            <Label>Latitude</Label>
+                         
                             <TextBox x:Name="tbxLatitude" Foreground="Black" Margin="5" FontSize="15" Grid.Row="1" VerticalAlignment="Top" Height="25" Text="Latitude"/>
                             <TextBox x:Name="tbxAttitude" Foreground="Black" Margin="5" FontSize="15" Grid.Row="2" VerticalAlignment="Top" Height="25" Text="Attitude"/>
 
